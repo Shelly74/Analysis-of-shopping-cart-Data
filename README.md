@@ -12,11 +12,6 @@ There are several deductions and analyses that can be drawn from this data which
 3. Understanding Customer demographics and their preferences**
 
 
-## Authors
-
-- [@octokatherine](https://github.com/stankovix)
-
-
 ## Installation
 
 Kindly take note of the following libaries and models below:
@@ -47,5 +42,5 @@ from IPython.core.interactiveshell import InteractiveShell
 5. Getting insight from the data
 
 
-![Logo](https://github.com/stankovix/Analysis-of-Shopping-Cart-Data/blob/main/Reduce-Shopping-Cart-Abandonment-Rates.jpg?raw=true)
+
 
